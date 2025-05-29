@@ -4,8 +4,9 @@ import spacy
 import joblib
 import matplotlib.pyplot as plt
 
-model = joblib.load('C:/Users/Nihal/Desktop/Sentimental_Analysis_Tool/model.pkl')
-tfidf = joblib.load('C:/Users/Nihal/Desktop/Sentimental_Analysis_Tool/tfidf.pkl')
+model = joblib.load("model.pkl")
+tfidf = joblib.load("tfidf.pkl")
+
 nlp = spacy.load("en_core_web_sm")
 
 def lemmatization(text):
