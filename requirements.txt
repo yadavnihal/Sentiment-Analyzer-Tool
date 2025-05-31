@@ -4,9 +4,9 @@ scikit-learn
 matplotlib
 joblib
 
-# Compatible versions for spaCy and dependencies
+# Compatible versions
 spacy==3.5.1
-thinc==8.1.7
+thinc==8.1.9
 numpy==1.23.5
 blis==0.7.9
 
