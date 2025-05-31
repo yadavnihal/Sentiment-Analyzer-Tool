@@ -1,14 +1,10 @@
 streamlit
 pandas
-scikit-learn
+scikit-learn==1.6.1
 matplotlib
 joblib
-
-# Compatible versions
 spacy==3.5.1
 thinc==8.1.9
 numpy==1.23.5
 blis==0.7.9
-
-# SpaCy English model
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
