@@ -19,7 +19,7 @@ This is a **NLP-based Sentiment Analysis Tool** built with `SpaCy`, `TF-IDF Vect
 - **Natural Language Processing**: [SpaCy](https://spacy.io/)
 - **Vectorization**: `TF-IDF` with `scikit-learn`
 - **Model**: Logistic Regression (`scikit-learn`)
-- **Web App**: [Streamlit](https://streamlit.io/)
+- **Web App**: [Streamlit](https://sentiment-analyzer--tool-movie-review-created-by-nihal.streamlit.app)
 
 ---
 
@@ -35,5 +35,5 @@ sentiment-analyzer
 
 ## 🌐 Live Demo
 **You can try the deployed app here:**
-👉 [Streamlit Cloud Link](add yours here)
+👉 [Streamlit Cloud Link](https://sentiment-analyzer--tool-movie-review-created-by-nihal.streamlit.app)
 
